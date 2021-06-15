@@ -1,4 +1,4 @@
-package oop_kurs_1622;
+package einsendeaufgabe2;
 
 public class PrimzahlTester {
 
